@@ -1,4 +1,5 @@
-pip install numpy==1.19.3
+numpy==1.19.3
+
 pip install opencv-python==4.5.3.56
 streamlit==0.89.0
 tensorflow
