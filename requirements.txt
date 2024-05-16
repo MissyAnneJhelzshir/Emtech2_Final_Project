@@ -1,5 +1,5 @@
 streamlit==0.89.0
 opencv-python==4.5.3.56
-tensorflow >=1.23.5
+tensorflow
 Pillow == 10.1.0
 numpy == 1.19
